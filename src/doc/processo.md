@@ -37,4 +37,5 @@ Coloquei uma cor mais agradável no background da sessão da lista.
 ![Screenshot tela laptop G largura 1440px](./images-doc/image-8.png)
 
 ### Adicionei funcionalidades
-...
+Comecei adicionando na parte visual os botões de remover, que estão ao lado de cada item da lista, e os de adicionar novas tarefas, que então ao lado do título de cada sessão. Isso para que possa adicionar de acordo com as sessões.
+![Adicionando botões de adicionar e remover tarefas.](./images-doc/image-addbtns.png)
