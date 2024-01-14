@@ -104,6 +104,22 @@ h2{
 
 .section-lista > li{
     padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    column-gap: 5px;
+
+}
+.p-lista{
+    width: 90%;
+}
+.btn-remove{
+    border: none;
+    background-color:#c20202;
+    color: #fff;
+    border-radius: 5px;
+    width: 30px;
+    height: 30px;
 }
 
 .lista-links{
