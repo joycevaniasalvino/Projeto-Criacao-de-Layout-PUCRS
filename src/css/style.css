@@ -80,17 +80,34 @@ h1{
 
 }
 
+
 .section1 {
     width: 100%;
     padding: 0 40px 40px 40px;
 
 }
-h2{
+.div-h2{
     display: flex;
     justify-content: center;
     width: 100%;
     padding-bottom: 50px;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
+
+
+.btn-add{
+    border: none;
+    background-color:#00a308;
+    color: #fff;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+}
+
 .section2 {
     width: 100%;
     padding: 0 40px 40px 40px;
@@ -99,10 +116,13 @@ h2{
 }
 
 .section-lista {
-    margin: 10px 0;
+    list-style-type: decimal;
+    margin: 0;
+    padding: 0; 
+
 }
 
-.section-lista > li{
+.li-lista{
     padding: 10px 0;
     display: flex;
     justify-content: space-between;
