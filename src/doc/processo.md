@@ -1,6 +1,11 @@
 # Processo de desenvolvimento do projeto Criação de Layout
 Neste processo de desenvolvimento, escolhi desenvolver com HTML, CSS e JavaScript.
-O passo a passo de como vou começar será desenvolvendo toda a estrutura do site e estilização. Após isso, farei a responsividade para que se adapte a todo tipo de tela. Por fim, colocarei as funcionalidades requisitadas.
+
+⚠️ Obs.: Eu poderia fazer com Next.js, tailwind CSS e typescript, que são as tecnologias que uso. Porém, eu queria mostrar as minhas habilidades com as tecnologias raiz. Então, deixei pra fazer esse desafio com HTML, CSS e JavaScript mesmo. E caso desse tempo, devido a outras responsabilidades que tenho e levando em consideração que o requisito do desafio é escolher APENAS UM desafio, eu faria o outro projeto com as tecnologias que trabalho.
+
+
+## O passo a passo de como vou começar
+Será desenvolvendo toda a estrutura do site e estilização e após isso, farei a responsividade para que se adapte a todo tipo de tela. Por fim, colocarei as funcionalidades requisitadas.
 
 Listando os passos:
 - Estrutura e estilização com HTML e CSS
